@@ -1,10 +1,29 @@
-# test
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# saucedemo.com Automation
+This is a Node.js script that automates login process to saucedemo.com and adds 3 random items to the cart. It leverages the pupetter npm module.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+# Prerequisite
+
+- Node.js installed on your machine, download it [here](https://nodejs.org/en/)
+
+
+
+## Getting Started
+
+To run the script, execute the following command on your terminal from inside the project directory.
+
+- Run the below command only once. You don't need to run it once the node_moudles installed
+
+```bash
+  npm install
+```
+
+- Run the below command everytime you want to start the script
+```bash
+  npm start
+```
+## Demo
+
+[Here](www.canthme.com) you can find a demo video on how to run the script.
 
